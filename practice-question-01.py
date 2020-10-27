@@ -1,3 +1,5 @@
+# Question :- Given a dictionary with values , write a function that returns a key at random wit a probability proportional to the values.
+#Code :-
 window.geometry('650x150')
 l1 = Label(text=f'{"Given a dictionary with values , write a function that returns a key at random wit a probability proportional to the values"}').grid(row=1)
 var1 = StringVar()
